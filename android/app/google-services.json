@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "856164270410",
+    "project_id": "rootallyai-55dda",
+    "storage_bucket": "rootallyai-55dda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856164270410:android:61c35d1a587acee0fcc1b3",
+        "android_client_info": {
+          "package_name": "com.example.rootallyassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856164270410-vkvp4c96kot4k4vjsp22s87tq7ep1lmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVD8RZ68D6ZBBka1UGKmppocYWn3vO18c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856164270410-vkvp4c96kot4k4vjsp22s87tq7ep1lmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
